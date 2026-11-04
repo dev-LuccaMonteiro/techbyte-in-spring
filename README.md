@@ -47,7 +47,7 @@ https://start.spring.io/[cite: 3]
 
 O Spring Initializr permite selecionar a linguagem de programação, o sistema de gerenciamento de dependências, a versão do Spring Boot, os metadados do projeto e as bibliotecas necessárias para o desenvolvimento[cite: 4].
 
-![Pesquisa e acesso ao Spring Initializr](assets/01-pesquisa-spring-initialzr.png)
+![Pesquisa e acesso ao Spring Initializr](https://raw.githubusercontent.com/dev-LuccaMonteiro/techbyte-in-spring/main/assets/01-pesquisa-spring-initialzr.png)
 *Figura 1 – Pesquisa e acesso ao Spring Initializr.*[cite: 3]
 
 ### 3.2. Configuração inicial do projeto
@@ -72,7 +72,7 @@ O Maven foi escolhido como gerenciador de dependências por facilitar a organiza
 
 A linguagem Java foi selecionada por sua utilização no desenvolvimento de aplicações backend e por sua integração com o ecossistema Spring[cite: 4].
 
-![Configuração dos parâmetros do projeto no Spring Initializr](assets/02-configuracao-spring-initialzr.png)
+![Configuração dos parâmetros do projeto no Spring Initializr](https://raw.githubusercontent.com/dev-LuccaMonteiro/techbyte-in-spring/main/assets/02-configuracao-spring-initialzr.png)
 *Figura 2 – Configuração dos parâmetros do projeto no Spring Initializr.*[cite: 4]
 
 ### 3.3. Seleção das dependências
