@@ -47,7 +47,10 @@ https://start.spring.io/
 
 O Spring Initializr permite selecionar a linguagem de programação, o sistema de gerenciamento de dependências, a versão do Spring Boot, os metadados do projeto e as bibliotecas necessárias para o desenvolvimento.
 
-![Pesquisa e acesso ao Spring Initializr](https://raw.githubusercontent.com/dev-LuccaMonteiro/techbyte-in-spring/main/assets/01-pesquisa-spring-initialzr.png)
+
+<img width="1209" height="495" alt="03-pesquisa-spring-initializr" src="https://github.com/user-attachments/assets/d7d1faea-8c04-4419-a6a5-6a3a4d40f39e" />
+
+
 *Figura 1 – Pesquisa e acesso ao Spring Initializr.*
 
 ### 3.2. Configuração inicial do projeto
@@ -72,7 +75,9 @@ O Maven foi escolhido como gerenciador de dependências por facilitar a organiza
 
 A linguagem Java foi selecionada por sua utilização no desenvolvimento de aplicações backend e por sua integração com o ecossistema Spring.
 
-![Configuração dos parâmetros do projeto no Spring Initializr](https://raw.githubusercontent.com/dev-LuccaMonteiro/techbyte-in-spring/main/assets/02-configuracao-spring-initialzr.png)
+
+<img width="1540" height="921" alt="04-configuracao-spring-initializr" src="https://github.com/user-attachments/assets/7a4e4a91-4c7f-4337-ba3e-f2f072f8950a" />
+
 *Figura 2 – Configuração dos parâmetros do projeto no Spring Initializr.*
 
 ### 3.3. Seleção das dependências
@@ -238,7 +243,8 @@ A tabela possui os seguintes campos:
 
 O campo `id` possui incremento automático, permitindo que o banco gere um identificador para cada registro inserido.
 
-![Log de execução demonstrando a conexão com MySQL e a criação da tabela pelo Hibernate](https://raw.githubusercontent.com/dev-LuccaMonteiro/techbyte-in-spring/main/assets/03-logs-criacao-tabela.png)
+<img width="1756" height="451" alt="05-banco-de-dados-criado" src="https://github.com/user-attachments/assets/70a0822d-5ad0-4327-a288-f1570f8130e2" />
+
 *Figura 3 – Log de execução demonstrando a conexão com MySQL e a criação da tabela pelo Hibernate.*
 
 ### 6.2. Verificação da tabela no MySQL
@@ -325,7 +331,8 @@ Com a aplicação em execução, foi digitado o endereço:
 O navegador realizou uma requisição HTTP GET ao servidor Spring Boot.
 A aplicação processou a requisição e retornou os dados do produto no formato JSON.
 
-![Consumo da API REST diretamente pelo navegador](https://raw.githubusercontent.com/dev-LuccaMonteiro/techbyte-in-spring/main/assets/04-teste-navegador.png)
+<img width="1457" height="669" alt="01-teste-navegador" src="https://github.com/user-attachments/assets/c8bb2b59-734a-431d-b67d-a894b76bf757" />
+
 *Figura 4 – Consumo da API REST diretamente pelo navegador.*
 
 O retorno registrado no projeto foi:
@@ -354,7 +361,8 @@ O Postman permite configurar requisições HTTP e analisar os resultados retorna
 5. Clicar em Send.
 6. Verificar o código de resposta e o conteúdo JSON.
 
-![Teste da rota GET utilizando Postman](https://raw.githubusercontent.com/dev-LuccaMonteiro/techbyte-in-spring/main/assets/05-teste-postman.png)
+<img width="1233" height="793" alt="02-teste-postman" src="https://github.com/user-attachments/assets/8900fdc4-f9fb-4260-97f5-5e2c22225dd3" />
+
 *Figura 5 – Teste da rota GET utilizando Postman.*
 
 O resultado documentado foi:
